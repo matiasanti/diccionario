@@ -4,7 +4,8 @@ meme_dict = {
             "ROFL": "una respuesta a una broma",
             "SHEESH": "ligera desaprobación",
             "CREEPY": "aterrador, siniestro",
-            "AGGRO": "ponerse agresivo/enojado"
+            "AGGRO": "ponerse agresivo/enojado",
+            "F": "Expresion de tristesa o de respeto"
             }
 
 print("Bienvenidos al diccionario de palabras modernas")
